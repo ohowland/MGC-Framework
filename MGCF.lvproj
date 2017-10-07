@@ -29,9 +29,7 @@
 				</Item>
 			</Item>
 			<Item Name="Ctrls" Type="Folder"/>
-			<Item Name="VIs" Type="Folder">
-				<Item Name="MGCF_main.vi" Type="VI" URL="../src/VIs/MGCF_main.vi"/>
-			</Item>
+			<Item Name="VIs" Type="Folder"/>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
