@@ -13,15 +13,15 @@
 		<Item Name="src" Type="Folder">
 			<Item Name="Classes" Type="Folder">
 				<Item Name="Asset" Type="Folder">
-					<Item Name="AssetInterface.lvclass" Type="LVClass" URL="../src/Classes/AssetInterface/AssetInterface.lvclass"/>
 					<Item Name="EnergyStorage.lvclass" Type="LVClass" URL="../src/Classes/EnergyStorage/EnergyStorage.lvclass"/>
 					<Item Name="Grid.lvclass" Type="LVClass" URL="../src/Classes/Grid/Grid.lvclass"/>
+					<Item Name="Interface_Asset.lvclass" Type="LVClass" URL="../src/Classes/AssetInterface/Interface_Asset.lvclass"/>
 					<Item Name="Load.lvclass" Type="LVClass" URL="../src/Classes/Load/Load.lvclass"/>
 				</Item>
 				<Item Name="Dispatch" Type="Folder">
-					<Item Name="Dispatch_Demand Limiting.lvclass" Type="LVClass" URL="../src/Classes/Dispatch_Demand Limiting.lvclass"/>
-					<Item Name="Dispatch_SOC Control.lvclass" Type="LVClass" URL="../src/Classes/Dispatch_SOC Control.lvclass"/>
-					<Item Name="DispatchInterface.lvclass" Type="LVClass" URL="../src/Classes/DispatchInterface/DispatchInterface.lvclass"/>
+					<Item Name="Dispatch_Demand Limiting.lvclass" Type="LVClass" URL="../src/Classes/Dispatch Modules/Demand Limiting/Dispatch_Demand Limiting.lvclass"/>
+					<Item Name="Dispatch_SOC Control.lvclass" Type="LVClass" URL="../src/Classes/Dispatch Modules/SOC Control/Dispatch_SOC Control.lvclass"/>
+					<Item Name="Interface_Dispatch.lvclass" Type="LVClass" URL="../src/Classes/DispatchInterface/Interface_Dispatch.lvclass"/>
 				</Item>
 				<Item Name="System" Type="Folder">
 					<Item Name="System.lvclass" Type="LVClass" URL="../src/Classes/System/System.lvclass"/>
