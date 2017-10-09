@@ -159,6 +159,15 @@
 			<Property Name="NI.ClassItem.State" Type="Int">1074536980</Property>
 		</Item>
 	</Item>
+	<Item Name="TagBus_Check for Tag Existance.vi" Type="VI" URL="../TagBus_Check for Tag Existance.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%5!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#:!=!!?!!!1$F2B:U*V=SZM&gt;G.M98.T!!!+6'&amp;H1H6T)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!E1(!!(A!!%!Z597&gt;#&gt;8-O&lt;(:D&lt;'&amp;T=Q!!#62B:U*V=S"J&lt;A"B!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!1!"Q-!!(A!!!U)!!!!!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!)!!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+	</Item>
 	<Item Name="TagBus_Create Key Strings from Controls.vi" Type="VI" URL="../TagBus_Create Key Strings from Controls.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#S!!!!"Q!%!!!!#!!Q`````Q!71%!!!@````]!!1F,:8EA18*S98E!$!"Q!!A!!!!'!!!!%E"!!!(`````!!-&amp;18*S98E!&amp;E!Q`````QR1=G^D:8.T)%ZB&lt;75!!&amp;1!]!!-!!!!!!!!!!)!!!!!!!!!!!!!!!!!"!!&amp;!Q!!?!!!!!!!!!!!!!!!!!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!AA!!!))!!!!!!%!"A!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
@@ -185,6 +194,33 @@
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1342710290</Property>
+	</Item>
+	<Item Name="TagBus_Initialize_Dependency Check.vi" Type="VI" URL="../TagBus_Initialize_Dependency Check.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(0!!!!%!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%2!=!!?!!!G$82B:S"C&gt;8-O&lt;(:M;7)7&gt;'&amp;H)'2F=W.S;8"U&lt;X)O&lt;(:D&lt;'&amp;T=Q!!%H2B:S"E:8.D=GFQ&gt;'^S)'^V&gt;!!!)%"!!!(`````!!546'&amp;H2'6T9X*J=(2J&lt;WZT)'^V&gt;!!/1$$`````"'ZB&lt;75!!"J!1!!"`````Q!($%VJ=X.J&lt;G=A6'&amp;H=Q!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!51$$`````#UVP:(6M:3"/97VF!"J!1!!"`````Q!&amp;$%2F='6O:'6O9WFF=Q!!'%"1!!)!#A!,$%2F='6O:'6O9WFF=Q!!)%"!!!(`````!!Q32'6Q:7ZE:7ZD;76T)%&amp;S=G&amp;Z!!!A1%!!!@````]!"2*597&gt;%:8.D=GFQ&gt;'FP&lt;H-A;7Y!!&amp;1!]!!-!!-!"!!'!!A!"!!%!!1!"!!*!!1!$1!/!Q!!?!!!$1A!!!!!!!!.#Q!!#1!!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!AA!!!))!!!!!!%!$Q!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1107825170</Property>
+	</Item>
+	<Item Name="TagBus_Initialize_Map Data Type.vi" Type="VI" URL="../TagBus_Initialize_Map Data Type.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'=!!!!"!!%!!!"-A$R!!!!!!!!!!-.&gt;'&amp;H)'*V=SZM&gt;GRJ9B:U97=A:'6T9X*J=(2P=CZM&gt;G.M98.T$52B&gt;'%A6(FQ:3ZD&gt;'Q!^U!7!"A'2'^V9GRF"F.J&lt;G&gt;M:1.*.D1$34-S!UER.A**/!.6.D1$64-S!V5R.A*6/!&gt;#&lt;W^M:7&amp;O"F.U=GFO:Q^"=H*B?3"P:C"%&lt;X6C&lt;'5018*S98EA&lt;W9A5WFO:WRF$%&amp;S=G&amp;Z)'^G)%EW.!R"=H*B?3"P:C"*-T)-18*S98EA&lt;W9A34%W#U&amp;S=G&amp;Z)'^G)%EY$%&amp;S=G&amp;Z)'^G)&amp;5W.!R"=H*B?3"P:C"6-T)-18*S98EA&lt;W9A64%W#U&amp;S=G&amp;Z)'^G)&amp;5Y%%&amp;S=G&amp;Z)'^G)%*P&lt;WRF97Y018*S98EA&lt;W9A5X2S;7ZH!!FE982B)(2Z='5!#E"4"6:B&lt;(6F!&amp;1!]!!-!!!!!!!!!!%!!!!!!!!!!!!!!!!!!!!#!Q!!?!!!!!!!!!!!!!!!!!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!%!!Q!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">16777346</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342976528</Property>
+	</Item>
+	<Item Name="TagBus_Initialize_Merge Tags.vi" Type="VI" URL="../TagBus_Initialize_Merge Tags.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;B!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%2!=!!?!!!G$82B:S"C&gt;8-O&lt;(:M;7)7&gt;'&amp;H)'2F=W.S;8"U&lt;X)O&lt;(:D&lt;'&amp;T=Q!!%H2B:S"E:8.D=GFQ&gt;'^S)'^V&gt;!!!(%"!!!(`````!!506'&amp;H2'6T9X*J=(2J&lt;WZT!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!*%"!!!(`````!!581X6S=G6O&gt;#"597&gt;%:8.D=GFQ&gt;'FP&lt;H-!)%"!!!(`````!!544G6X)&amp;2B:U2F=W.S;8"U;7^O=Q"5!0!!$!!$!!1!"!!'!!1!"!!%!!1!"Q!%!!A!#1-!!(A!!!U)!!!!!!!!!!!!!!U+!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!%+!!!##!!!!!!"!!I!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1107825168</Property>
 	</Item>
 	<Item Name="TagBus_TEST_List All Tags.vi" Type="VI" URL="../TagBus_TEST_List All Tags.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;:!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$5!+!!:E&lt;X6C&lt;'5!!"2!1!!"`````Q!%"H:B&lt;(6F=Q!!%%!Q`````Q:4&gt;(*J&lt;G=!!"2!1!!"`````Q!'"E2P&gt;7*M:1!!*E"Q!"Y!!"!/6'&amp;H1H6T,GRW9WRB=X-!!!J597&gt;#&gt;8-A&lt;X6U!!!%!!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!E1(!!(A!!%!Z597&gt;#&gt;8-O&lt;(:D&lt;'&amp;T=Q!!#62B:U*V=S"J&lt;A"B!0!!$!!$!!5!"Q!)!!E!#1!*!!E!#A!*!!E!#Q-!!(A!!!U)!!!*!!!!#1!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!!!!!!%!!!$1!!!!Q!!!!!!!!!!!!!!1!-!!!!!!</Property>
