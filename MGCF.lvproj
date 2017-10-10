@@ -16,16 +16,23 @@
 		<Item Name="src" Type="Folder">
 			<Item Name="Classes" Type="Folder">
 				<Item Name="Asset" Type="Folder">
-					<Property Name="NI.SortType" Type="Int">3</Property>
+					<Property Name="NI.SortType" Type="Int">0</Property>
 					<Item Name="EnergyStorage.lvclass" Type="LVClass" URL="../src/Classes/EnergyStorage/EnergyStorage.lvclass"/>
+					<Item Name="EnergyStorage_Virtual.lvclass" Type="LVClass" URL="../src/Classes/EnergyStorage/Virtual/EnergyStorage_Virtual.lvclass"/>
 					<Item Name="Grid.lvclass" Type="LVClass" URL="../src/Classes/Grid/Grid.lvclass"/>
-					<Item Name="Interface_Asset.lvclass" Type="LVClass" URL="../src/Classes/AssetInterface/Interface_Asset.lvclass"/>
+					<Item Name="Grid_Virtual.lvclass" Type="LVClass" URL="../src/Classes/Grid/Virtual/Grid_Virtual.lvclass"/>
+					<Item Name="Interface_Asset.lvclass" Type="LVClass" URL="../src/Classes/Interface_Asset/Interface_Asset.lvclass"/>
 					<Item Name="Load.lvclass" Type="LVClass" URL="../src/Classes/Load/Load.lvclass"/>
+					<Item Name="Load_Virtual.lvclass" Type="LVClass" URL="../src/Classes/Load/Virtual/Load_Virtual.lvclass"/>
+				</Item>
+				<Item Name="Communication" Type="Folder">
+					<Item Name="Communication_Modbus.lvclass" Type="LVClass" URL="../src/Classes/Interface_Communication/Modbus/Communication_Modbus.lvclass"/>
+					<Item Name="Interface_Communication.lvclass" Type="LVClass" URL="../src/Classes/Interface_Communication/Interface_Communication.lvclass"/>
 				</Item>
 				<Item Name="Dispatch" Type="Folder">
 					<Item Name="Dispatch_Demand Limiting.lvclass" Type="LVClass" URL="../src/Classes/Dispatch Modules/Demand Limiting/Dispatch_Demand Limiting.lvclass"/>
 					<Item Name="Dispatch_SOC Control.lvclass" Type="LVClass" URL="../src/Classes/Dispatch Modules/SOC Control/Dispatch_SOC Control.lvclass"/>
-					<Item Name="Interface_Dispatch.lvclass" Type="LVClass" URL="../src/Classes/DispatchInterface/Interface_Dispatch.lvclass"/>
+					<Item Name="Interface_Dispatch.lvclass" Type="LVClass" URL="../src/Classes/Interface_Dispatch/Interface_Dispatch.lvclass"/>
 				</Item>
 				<Item Name="System" Type="Folder">
 					<Item Name="System.lvclass" Type="LVClass" URL="../src/Classes/System/System.lvclass"/>
